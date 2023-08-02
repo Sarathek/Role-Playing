@@ -75,7 +75,7 @@ main {
 .avatar {
   width: 15vh;
   border: 2px solid #000721;
-  max-width: 100%;
+  max-width: 60%;
   opacity: 0.8;
   border-radius: 10px;
   background-color: rgba(0, 7, 33, 0.8);
@@ -91,7 +91,7 @@ main {
   font-size: 1.1rem;
   font-weight: normal;
   width: 90%;
-  text-align: left;
+  text-align: center;
   margin: 1vh 5%;
   color: #ccc;
   letter-spacing: 0.03em;
